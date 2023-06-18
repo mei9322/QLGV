@@ -1,0 +1,17 @@
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\bin\Debug\QL_GiangVien.exe.config
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\bin\Debug\QL_GiangVien.exe
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\bin\Debug\QL_GiangVien.pdb
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.csproj.AssemblyReference.cache
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.Properties.Resources.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.csproj.GenerateResource.cache
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.csproj.CoreCompileInputs.cache
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.exe
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.pdb
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.GiangVien.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.TrangChu.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.UpLoadFile.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.Login.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.FormChatBox.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.ChatBox.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.chatboxStudents.resources
+C:\Users\1010302\source\repos\QL_GiangVien\QL_GiangVien\obj\Debug\QL_GiangVien.chat.resources
